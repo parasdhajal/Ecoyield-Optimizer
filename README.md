@@ -1,4 +1,5 @@
 🌱 EcoYield Optimizer
+
 An AI-powered web application that analyzes soil and environmental parameters to predict the most suitable crop and optimize yield. Built using Flask, Python, and Machine Learning, it empowers farmers and agricultural planners to make data-driven farming decisions.
 
 🚀 Features
